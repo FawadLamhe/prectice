@@ -1,2 +1,2 @@
 console.log("index.js");
-console.log("script.js")
+console.log("this is some script files script.js")
